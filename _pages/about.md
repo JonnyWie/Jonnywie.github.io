@@ -35,4 +35,4 @@ Jonny has gained ample experience improving his technical skills in a multitude 
 
 * Top 25 FWD Dirt Track Racer
 
-![Jonny Wieland](Jonathan Wieland Headshot.JPG)
+![Jonny Wieland](https://media.licdn.com/dms/image/C4E03AQGq3mAt1F5zkA/profile-displayphoto-shrink_100_100/0/1631203864330?e=1679529600&v=beta&t=pNDdIMtp3WVGA6WM4VyWcUnjFHUGDoNHDnUEt-m2Dcc)
