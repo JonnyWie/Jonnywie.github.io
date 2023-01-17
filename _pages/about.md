@@ -4,9 +4,11 @@ title: "About Jonny Wieland"
 
 ---
 
-## Education
+## About 
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+I am a senior at Vanderbilt University graduating in the spring of 2023. I am a strategic thinker who wants to work in consulting, project management, or with a startup I firmly believe in after graduation. Outside of work, I am an avid car enthusiast, hockey player, and carpenter.
+
+## Education
 
 * Vanderbilt University 
   * Engineering Science Major 
@@ -15,10 +17,20 @@ David prides himself on his diverse skill set. His most prominent fields of expe
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Jonny has gained ample experience improving his technical skills in a multitude of methods. Reading of working drawings and 3D modeling have been used on the following skills: 
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Digital Fabrication:
+  * Fused Filament Fabrication (FFF)
+* Carpentry 
+  * Finish Woodworking and Jointery 
+  * Theater Set Construction and Painting 
+* Welding
+* * Machining 
+  * Metal Lathe 
+  * Metal Mill
+* Automotive Fabrication 
+
+
+## Awards 
+
+* Top 25 FWD Dirt Track Racer
