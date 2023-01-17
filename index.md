@@ -18,9 +18,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "Racecar Build"
     excerpt: "Custom Fabricated FWD Dirt Track RaceCar"
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Puzzle Box Final.jpg
+    title: "Wooden Puzzle Box"
+    excerpt: "Custom Wood Puzzle Box to Hide Valuables "
 ---
 
 {% include feature_row %}
