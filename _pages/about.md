@@ -15,6 +15,17 @@ I am a senior at Vanderbilt University graduating in the spring of 2023. I am a 
   * Engineering Management Minor 
   * Digital Fabrication Minor 
 
+## Work Experience 
+
+* Broadway Consulting Group 
+  * Account Manager/Intern
+* Apple Inc
+  * Retail Specialist
+* Vanderbilt Theater
+  * Head Carpenter 
+* Mixed In Beautiful
+  * Co-Owner 
+  
 ## Technical Skills
 
 Jonny has gained ample experience improving his technical skills in a multitude of methods. Reading of working drawings and 3D modeling have been used on the following skills: 
