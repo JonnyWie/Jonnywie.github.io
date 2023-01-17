@@ -2,12 +2,12 @@
 title: "Syringe Pump Project"
 excerpt: "This syringe pump will allow nurses to automate the process of injecting fluids into patients. "
 header:
-  image: 
-  teaser: 
+  image: assets/img/Syring e Pump Pic 1.jpg
+  teaser: assets/img/Syring e Pump Pic 1.jpg
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/Syring e Pump Pic 2.jpg
+  - image_path: assets/img/Syring e Pump Pic 3.jpg
+  - image_path: assets/img/Syring e Pump Pic 4.jpg
    
 ---
 
