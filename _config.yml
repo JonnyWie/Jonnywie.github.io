@@ -15,7 +15,7 @@ title                    : "Jonny Wieland"
 title_separator          : "-"
 subtitle                 : "Vanderbilt University"
 name                     : &name "Jonny Wieland" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description " "
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
