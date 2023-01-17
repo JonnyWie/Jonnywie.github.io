@@ -4,7 +4,7 @@ main:
     url: /portfolio/
   - title: "About"
     url: /_pages/about
-    - title: "HOME"
+  - title: "HOME"
     url: /portfolio/
   # - title: "Sample Posts"
   #   url: /year-archive/
