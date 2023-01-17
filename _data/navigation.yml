@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /_pages/about
   - title: "Home"
-    url: /_pages
+    url: https://jonnywie.github.io/
    
   # - title: "Sample Posts"
   #   url: /year-archive/
