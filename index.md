@@ -13,11 +13,11 @@ feature_row:
   - image_path: assets/img/Syring e Pump Pic 1.jpg
     alt: "CNC Mill"
     title: "Syringe Pump Build"
-    excerpt: ""
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+    excerpt: "Medical Syringe Pump Assembly 3D Printed"
+  - image_path: assets/img/RaceCar Build .JPG
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "Racecar Build"
+    excerpt: "Custom Fabricated FWD Dirt Track RaceCar"
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
