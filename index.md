@@ -10,10 +10,10 @@ header:
       url: "/portfolio/"
 excerpt: "Jonny Wieland is an engineering student with a variety of technical skills. All projects display one or multiple technical skills Jonny Wieland has learned through hands on experience and research."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: assets/img/Syring e Pump Pic 1.jpg
     alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    title: "Syringe Pump Build"
+    excerpt: ""
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
