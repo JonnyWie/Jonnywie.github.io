@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "(https://media.licdn.com/dms/image/C4E03AQGq3mAt1F5zkA/profile-displayphoto-shrink_100_100/0/1631203864330?e=1679529600&v=beta&t=pNDdIMtp3WVGA6WM4VyWcUnjFHUGDoNHDnUEt-m2Dcc)"
+  avatar           : "https://media.licdn.com/dms/image/C4E03AQGq3mAt1F5zkA/profile-displayphoto-shrink_100_100/0/1631203864330?e=1679529600&v=beta&t=pNDdIMtp3WVGA6WM4VyWcUnjFHUGDoNHDnUEt-m2Dcc"
   bio              : "An entrepreneur with a passion for helping"
   location         : "Nashville, TN"
   links:
