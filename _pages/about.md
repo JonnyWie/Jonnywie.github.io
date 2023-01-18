@@ -6,7 +6,7 @@ title: "About Jonny Wieland"
 
 ## About 
 
-I am a senior at Vanderbilt University graduating in the spring of 2023. I am a strategic thinker who wants to work in consulting, project management, or with a startup I firmly believe in after graduation. Outside of work, I am an avid car enthusiast, hockey player, and carpenter.
+I am a senior at Vanderbilt University graduating in the spring of 2023. I am a strategic thinker who wants to work in fabrication, prototyping, or with a startup I firmly believe in after graduation. Outside of work, I am an avid car enthusiast, carpenter, and hockey player.
 
 ## Education
 
