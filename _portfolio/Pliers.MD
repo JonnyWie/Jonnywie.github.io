@@ -5,9 +5,11 @@ header:
   image: /assets/img/Pliers 1.jpg
   teaser: /assets/img/Pliers 1.jpg
 gallery:
-  - /assets/img/Pliers 1.jpg
-  - image_path: assets/img/Syring e Pump Pic 3.jpg
-  - image_path: assets/img/Syring e Pump Pic 5.jpg
+  - image_path: /assets/img/Pliers 1.jpg
+  - image_path: /assets/img/Pliers 3.jpg
+  - image_path: /assets/img/Pliers 4.jpg
+  - image_path: /assets/img/Pliers 5.jpg
+  - image_path: /assets/img/Pliers 7.jpg
    
 ---
 
