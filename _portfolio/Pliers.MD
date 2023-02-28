@@ -20,14 +20,12 @@ This project is an example of how a design can be leveraged to use print in plac
 
 
 
-# Features
+# The Design 
 
-* **Adjustable Flow Rate.** The flow rate of the fluid being pushed through the syringe pumps can also be easily changed so that this syringe pump may be used to administer a wide variety of drugs to patients. The flow rate can range from 0.012–300 mL/min.
-* **Compatible with Multiple Syringe Sizes** This syringe pump can hold a 5mL syringe and a 20mL syringe. Both syringes can be run individually or at the same time. 
-* **Minimal User Input** The syringe pump requires minimal user input in order to function. The user must load and unload the syringes before after after each use. The user must also start and stop the machine. The syringe pump will automatically stop once the syringe is empty. There is also a LED to warn the user when the pump is running, when the pump is stopped, and when the pump is out of fluid.
+The purpose of this design was to function like a regular pair of needle nose pliers. The design was kept simple to show the capabilities of printing in place 3D printing and multi-material 3D printers. The two plier handles are printed using PLA. These were relatively easy to model in CAD as they resemble what real pliers look like. The spring component on this design is made of TPU. This allows the material to bend without breaking while also remaining strong enough to return the jaw of the pliers to the open position when not in use. The spring component was the trickiest part of this project because it is very difficult to create a working model in CAD that can open and close due to the limitations of the CAD software. To overcome this problem, I confirmed the spring would fit each handle individually using CAD, and then 3D printed multiple sizes of the spring to determine which would fit best. Once I had found the best size for the spring in this design, I could 3D print the whole design using print in place techniques on a multi-material 3D printer. 
 
 
-# Off the Shelf Materials Required 
+# Specs 
 
 * 200 mm lead screw with 2 mm pitch and 2 mm lead
 * 1/4" x 8mm Flexible Coupling
@@ -43,16 +41,8 @@ This project is an example of how a design can be leveraged to use print in plac
 * Limit Switch
 * RGB Common Cathode LED
    
-# 3D Printed Materials Required 
 
-* Motor Mount
-* Electrical Components Enclosure
-* Electrical Components Enclosure Lid 
-* Rear Syringe Holder 
-* Middle Syringe Holder
-* Front Syringe Holder 
-
-# How To Operate Syringe Pump 
+# Print Settings 
 1. Load the desired syringe into its appropriate holder mounts. Ensure that the syringe is locked into the hole for the tip of the syringe. Additionally, verify that the back of the syringe is snugly fit into the back mount and that the plunger is slotted into its respective hole piece.  
 2. Plug in the power supply to provide power to the system. The LED should turn yellow.
 3. To begin operation, press buttons to move the lead screw in either direction. In doing so, the LED should turn green.
@@ -64,7 +54,7 @@ This project is an example of how a design can be leveraged to use print in plac
 
 # CAD Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430375ce53587cdfce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 
 {% include gallery caption="" %} 
