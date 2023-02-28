@@ -13,7 +13,9 @@ gallery:
 
 # Purpose
 
-The purpose of this project was to develop a syringe pump assembly that could automate the process of injecting fluids into a patient over a given period of time. This project was done through the use of off the shelf parts and custom made 3D printed parts. This drastically decreased the cost of making an adjutable syringe pump assembly. This project can be easily replicated for anybody else that is trying to improve this product or decrease cost as this project has done. 
+This project was to show the capabilities of modern 3D printers to be able to print in place designs. This means the 3D printer can print parts that rotate, hinge, or slide with other parts on a design without any manual assembly required. This has allowed companies to create revolutionary parts that would otherwise be impossible to create. Furthermore, the use of a multi-material 3D printer can take this process to the next level. A design can now be printed in place without any manual assembly needed and multiple types of filaments can be used. 
+
+This project is an example of how a design can be leveraged to use print in place techniques along with a multi-material 3D printer. The pliers were able to be printed on a regular 3D printer in multiple pieces due to the simplicity of the CAD design. A more complex design would have been very difficult to print in multiple pieces, with varying types of filaments, and still achieve accurate clearance. This same design is capable of being printed at one time with all components already assembled using print in place techniques. If done correctly, the pliers would still open and close like normal, and the TPU spring would adhere to the PLA pliers while remaining fully operational. This is just one example of how print in place 3D printing can build designs that would otherwise be impossible. 
 
 
 
