@@ -1,6 +1,6 @@
 ---
-title: "Pliers Project"
-excerpt: "This syringe pump will allow users to automate the process of injecting fluids at a relatively inexpensive cost"
+title: "Multi-Material Pliers Project"
+excerpt: "Thiese pliers show the capabilities of multi-material printing incorporated with print in place techniques"
 header:
   image: assets/img/Syring e Pump Pic 1.jpg
   teaser: assets/img/Syring e Pump Pic 1.jpg
