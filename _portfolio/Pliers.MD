@@ -28,33 +28,16 @@ The purpose of this design was to function like a regular pair of needle nose pl
 # Specs 
 
 * 200 mm lead screw with 2 mm pitch and 2 mm lead
-* 1/4" x 8mm Flexible Coupling
-* 200 mm linear rod with 8 mm diameter
-* LM8UU Linear bearing for 8 mm diameter rod
-* 2040 Aluminum Extrusion 1' Length
-* Nema 17 Stepper Motor
-* MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp
-* Arduino Uno
-* A4988 Stepper Driver
-* Small Breadboard
-* Panel Mount Latching Push Buttons
-* Limit Switch
-* RGB Common Cathode LED
+
    
 
 # Print Settings 
-1. Load the desired syringe into its appropriate holder mounts. Ensure that the syringe is locked into the hole for the tip of the syringe. Additionally, verify that the back of the syringe is snugly fit into the back mount and that the plunger is slotted into its respective hole piece.  
-2. Plug in the power supply to provide power to the system. The LED should turn yellow.
-3. To begin operation, press buttons to move the lead screw in either direction. In doing so, the LED should turn green.
-4. To stop the syringe pump, press down the limit switch. This will immediately stop all movement of the system, and the LED will turn red. 
-5. To begin movement again, release the limit switch and follow step #3 to begin operation again.
-6. Once syringe is fully dispensed, stop operation and replace syringe using protocol of step #1. 
-7. When completely finished with operation, unplug the power supply and store in a safe location. 
+ 
 
 
 # CAD Model
 
-
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e438055587b11cf9076?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 {% include gallery caption="" %} 
