@@ -2,8 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "This microfluidic device will allow users to create a homogeneous mixture on a small scale at a relatively inexpensive cost"
 header:
-  image: assets/img/Syring e Pump Pic 1.jpg
-  teaser: assets/img/Syring e Pump Pic 1.jpg
+  image: assets/img/DF 4200 1.jpg
+  teaser: assets/img/DF 4200 1.jpg
 gallery:
   - image_path: assets/img/DF 4200 1.jpg
   - image_path: assets/img/DF 4200 2.jpg
