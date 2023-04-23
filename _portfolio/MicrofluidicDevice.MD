@@ -5,9 +5,9 @@ header:
   image: assets/img/Syring e Pump Pic 1.jpg
   teaser: assets/img/Syring e Pump Pic 1.jpg
 gallery:
-  - image_path: assets/img/Syring e Pump Pic 2.jpg
-  - image_path: assets/img/Syring e Pump Pic 3.jpg
-  - image_path: assets/img/Syring e Pump Pic 5.jpg
+  - image_path: assets/img/DF 4200 1.jpg
+  - image_path: assets/img/DF 4200 2.jpg
+  - image_path: assets/img/DF 4200 3.jpg
    
 ---
 
