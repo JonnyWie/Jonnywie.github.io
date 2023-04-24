@@ -40,6 +40,6 @@ Vat Photopolymerization was the chosen additive manufacturing method for develop
 
 # Device In Action 
 
-https://youtube.com/shorts/WW1iPW0SPAM?feature=share
+https://youtube.com/shorts/Gcs0guzxZqY?feature=share
 
 
