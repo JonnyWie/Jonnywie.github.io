@@ -29,14 +29,14 @@ Vat Photopolymerization was the chosen additive manufacturing method for develop
 
 
 # Instructions for Microfluidic Device Construction:
-1.	Print Microfluidic Device CAD Design on a resin printer
-2.	Cure the Resin print
-Note: Do not cure resin print for too long or the part will warp significantly
-3.	Spray resin printed mold with a nonstick chemical to ensure mold can be easily removed 
-4.	Mix together epoxy and hardening agent extremely thoroughly 
-5.	Pour epoxy mixture into resin printed mold and allow it to harden over the next few days 
-6.	Remove microfluidic device form mold 
-7.	Check microfluidic device for any imperfections before use 
+1.	Print Microfluidic Device CAD Design on a resin printer.
+2.	Cure the Resin print.
+Note: Do not cure resin print for too long or the part will warp significantly.
+3.	Spray resin printed mold with a nonstick chemical to ensure mold can be easily removed.
+4.	Mix together epoxy and hardening agent extremely thoroughly.
+5.	Pour epoxy mixture into resin printed mold and allow it to harden over the next few days.
+6.	Remove microfluidic device form mold.
+7.	Check microfluidic device for any imperfections before use.
 
 
 
