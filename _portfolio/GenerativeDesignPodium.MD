@@ -25,8 +25,8 @@ The design for a Large Format 3D Printed (LF3DP) podium that incorporates Genera
 This is a small scale replica of the full size podium. This small scale model is a proof of concept that shows the full size generative design podium is printable on a large format 3D printer without the use of any supports. 
 
 
-# CAD Model
 
+# CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed3f0a23dc9648c55?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
