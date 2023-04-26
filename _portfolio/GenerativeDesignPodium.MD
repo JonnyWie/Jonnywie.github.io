@@ -21,13 +21,6 @@ This is a small scale replica of the full size podium. This small scale model is
 
 gallery:
   - image_path: assets/img/Podium 1.jpg
-  - image_path: assets/img/Podium 2.jpg
-  - image_path: assets/img/Podium 3.jpg
-  - image_path: assets/img/Podium 4.jpg 
-  - image_path: assets/img/Podium 5.jp 
-  - image_path: assets/img/Podium 6.jpg
-  - image_path: assets/img/Podium 7.jpg
-  - image_path: assets/img/Podium 8.jpg
 
 
 # CAD Model
@@ -37,13 +30,13 @@ gallery:
 
 # LF3DP and Generative Design Overview
 
-##Large Format Printing 
+##Large Format Printing##
   Large Format 3D Printing is a relatively new technological advancement. Small and medium sized 3D printers have become increasingly more popular and significant advancements in their technology have been made because of their popularity. One of the biggest drawbacks with any small or medium sized 3D printing technology is the maximum dimension size that a part can be. This applies to all 3D printing technologies such as filament printing, resin printing, SLS printing, mSLS printing, and more. Large Format 3D Printing (LF3DP) is trying to mitigate this problem. Instead of only being able to 3D print the bracket for a car bumper, someone could print the whole front bumper. There are even some people attempting to print items as large as a boat using this technology. Some drawbacks are the dimensional accuracy and support material problems. The parts being printed have much larger nozzles for printing the material than a typical 3D printer would, causing the dimensional accuracy and surface finish to be not nearly as nice. It is also very hard to use support material for 3D prints so most prints must be optimized so that they do not need any support material at all. Lastly, this technology is very expensive. A typical filament 3D printer costs around $300. The filament alone for LF3DP, also known as pellets, can cost more than $300. This means the technology would need to show major benefits over other alternatives in order to be financially worth it to use. This technology can be revolutionary, but for now there is still more testing and improvements that need to be made. 
   
-  ##Generative Design 
+  ##Generative Design##
 	Generative Design is also a relatively newer technology. The concept behind generative design is to create parts with as little material as possible but with the same mechanical properties as the original design. Commercial parts that are 3D printed are designed with specific mechanical properties in mind depending on the function of the part being designed. These parts are often run through various simulations to ensure the part will perform as needed. One of the biggest problems with these designs is their weight and cost to produce. More material means more strength, but it also increases production time, costs, and the mass of each individual part. Generative design will create a part with the same exact desired properties but with a lot less weight. It removes material anywhere on the part that is unnecessary in order to reduce weight. Ghis also cuts back on production time and costs. Some drawbacks with generative design are the iteration process often necessary to design a part. The parts are processed and made through the use of modern computers but often times some adjustments have to be made and more simulations must be run before a final product is made. Generative Design has the possibility to revolutionize the way future parts are made. 
 	
-##Planetary Surface Construction
+## Planetary Surface Construction ##
 	Planetary surface construction has become a topic of a lot of interests in recent times. There are new companies starting all the time with an interest in building civilizations on other planets such as mars. NASA has also continued to develop their own technologies in many different areas in order to make the Sci-Fi dream of living on mars into a reality. The problem a lot of these researchers are facing is how to get the materials to other planets in order to be reassembled. Some machines have to be constructed here on earth and then transported to other planets without breaking anything. These materials and machines can become very heavy, which means you need even larger rockets and spaceships in order to move everything from earth to another planet. Some companies are trying to solve this problem by increasing the size of rockets that we can reliably use for transportation. This may reduce the weight problem we currently face but the price of constructing these rockets is upwards of $3,000,000,000 per rocket. Many researchers and companies are looking to alternative solutions to fix this same problem that are much cheaper but just as reliable. This is where Large Format 3D Printing and Generative Design come in. 
 	
 ##Solution
