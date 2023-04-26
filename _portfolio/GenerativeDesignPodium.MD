@@ -2,12 +2,12 @@
 title: "Generative Design Podium"
 excerpt: "This is a podium made using generative design techniques. It was designed to be printed on a large fromat 3D printer."
 header:
-  image: assets/img/Syring e Pump Pic 1.jpg
-  teaser: assets/img/Syring e Pump Pic 1.jpg
+  image: assets/img/Podium 2.jpg
+  teaser: assets/img/Podium 2.jpg
 gallery:
-  - image_path: assets/img/Syring e Pump Pic 2.jpg
-  - image_path: assets/img/Syring e Pump Pic 3.jpg
-  - image_path: assets/img/Syring e Pump Pic 5.jpg
+  - image_path: assets/img/Podium 2.jpg
+  - image_path: assets/img/Podium 3.jpg
+  - image_path: assets/img/Podium 6.jpg
    
 ---
 
@@ -17,6 +17,16 @@ The design for a Large Format 3D Printed (LF3DP) podium that incorporates Genera
 
 # Small Scale Model 
 
+This is a small scale replica of the full size podium. This small scale model is a proof of concept that shows the full size generative design podium is printable on a large format 3D printer without the use of any supports. 
+
+ - image_path: assets/img/Podium 1.jpg
+ - image_path: assets/img/Podium 2.jpg
+ - image_path: assets/img/Podium 3.jpg
+ - image_path: assets/img/Podium 4.jpg 
+ - image_path: assets/img/Podium 5.jp 
+ - image_path: assets/img/Podium 6.jpg
+ - image_path: assets/img/Podium 7.jpg
+ - image_path: assets/img/Podium 8.jpg
 
 
 # CAD Model
