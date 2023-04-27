@@ -2,12 +2,14 @@
 title: "Generative Design Skateboard Truck"
 excerpt: "This is a Skateboard made using generative design techniques. It was designed to be printed on a SLS 3D printer."
 header:
-  image: assets/img/Podium 2.jpg
-  teaser: assets/img/Podium 2.jpg
+  image: assets/img/DF 4200 Skateboard Truck 5.jpg
+  teaser: assets/img/DF 4200 Skateboard Truck 5.jpg
 gallery:
-  - image_path: assets/img/Podium 2.jpg
-  - image_path: assets/img/Podium 3.jpg
-
+  - image_path: assets/img/DF 4200 Skateboard Truck 5.jpg
+  - image_path: assets/img/DF 4200 Skateboard Truck 4.jpg
+  - image_path: assets/img/DF 4200 Skateboard Truck 3.jpg
+  - image_path: assets/img/DF 4200 Skateboard Truck 2.jpg
+  - image_path: assets/img/DF 4200 Skateboard Truck 1.jpg
 
 ---
 
