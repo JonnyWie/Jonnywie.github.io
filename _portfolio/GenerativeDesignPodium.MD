@@ -20,11 +20,6 @@ gallery:
 
 The design for a Large Format 3D Printed (LF3DP) podium that incorporates Generative Design concepts had more obstacles to overcome than a typical 3d print. I started by creating an actual podium that had the desired dimensions and number of shelves I wanted. I then removed the side walls of the podium so only the podium top, shelves, and front logo were remaining. This allows the Generative Design software to create organic sidewalls and support structures that use less material but have the same mechanical properties. Next, I blocked off some areas of the podium that I did not want the generative design to put support material in such as on most of each shelf. Lastly, I had to change the inputs for the Generative design to use when creating potential podium outcomes. The minimum feature size was 30mm because this was going to be printed on a LF3DP. The overhang angle was changed to a minimum of 45 degrees. The overhang angle is very important because the podium was printed with the front face down. This was to allow the shelves to be printed without any bridging needed. The overhang angle ensured the print would be possible in this configuration without the use of any support material. After the Generative Design podium was created, I had to manually edit some of the organic structures to ensure the overhang angles were acceptable for LF3DP. 
 
-# Small Scale Model 
-
-This is a small scale replica of the full size podium. This small scale model is a proof of concept that shows the full size generative design podium is printable on a large format 3D printer without the use of any supports. 
-
-
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed3f0a23dc9648c55?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -44,6 +39,9 @@ A solution that has become increasingly more popular for companies that want to 
 As previously stated, we still have a lot of improvements that need to be made before large-scale production can begin using LF3DP and generative design. LF3DP must become more reliable and efficient. Currently, only limited materials can be printed because of the many problems large-scale printers face. Bed adhesion becomes increasingly difficult with so much surface area needed and the increased nozzle diameter. Part shrinkage or warping is also significantly harder to control with larger prints. Some of the simpler things regular 3D printers have achieved cannot be done on a LF3DP such as the use of support material and multi-material prints. All these problems must be solved before this technology can come close to being reliable enough for planetary surface construction. Generative design has some constraints as well that must be removed as technology continues to advance. Current programs and computers are able to create generatively designed parts in a somewhat reasonable time, but a lot of editing and iterating must then be done before a final product can be reached. It is easy for a researcher to design their own part that needs no support material and is structurally sound given current software. It is much harder to tell a computer to create a generative design that follows these same parameters on the first try. Often times, researchers use the generative design as a foundation for the part being made, but they must then manually add or subtract to the part as needed to make it into something that can be 3D printed. There are still limits as well on how well software programs can create simulations that are as accurate to reality as possible. These are some of the biggest problems that are holding back generative design technology. Planetary surface construction is a wonderful idea that will likely someday be achieved. There are some major technological advancements that must be made with large format 3D printing and generative Design before either of these technologies can be used to one day build civilizations on other planets. 
 
 
+# Small Scale Model 
+
+This is a small scale replica of the full size podium. This small scale model is a proof of concept that shows the full size generative design podium is printable on a large format 3D printer without the use of any supports. 
 
 {% include gallery caption="" %} 
 
